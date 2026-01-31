@@ -1,5 +1,9 @@
 # Twitter and Reddit Sentiment Analysis Using Transformers
 
+NOTE :- IF THE FILE FAILS to RENDER US THIS LINK TO ACCESS !!!!!
+LINK - https://colab.research.google.com/drive/1OKQijXkJigIWP6zl2KxyGAAx0sadmQQz?usp=sharing
+
+
 This project performs sentiment analysis on Twitter and Reddit data using a pre-trained Transformer model (DistilBERT). The goal is to classify comments and tweets into positive, negative, or neutral sentiment.
 
 ## Features
