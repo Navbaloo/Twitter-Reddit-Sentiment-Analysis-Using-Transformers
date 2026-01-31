@@ -1,6 +1,6 @@
 # Twitter and Reddit Sentiment Analysis Using Transformers
 
-NOTE :- IF THE FILE FAILS to RENDER US THIS LINK TO ACCESS !!!!!
+NOTE :- IF THE FILE FAILS TO RENDER USE THIS LINK TO ACCESS !!!!!
 
 LINK - https://colab.research.google.com/drive/1OKQijXkJigIWP6zl2KxyGAAx0sadmQQz?usp=sharing
 
